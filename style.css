@@ -75,7 +75,7 @@ h4 {
     display: flex;
     align-items: center;
     color: rgb(0, 0, 0);
-    /* font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; */
+    
 }
 
 h5 {
@@ -139,7 +139,6 @@ h6 {
     margin-top: 3vh;
     height: 18vh;
     width: 100%;
-    /* background-color: #431d1d; */
 
 }
 
@@ -159,10 +158,6 @@ h6 {
 .ri-record-circle-fill {
     margin-left: 1vw;
 }
-
-
-
-
 
 .t {
     margin-top: 3vh;
