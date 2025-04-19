@@ -4,7 +4,6 @@
 }
 
 body {
-    /* font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; */
     font-family: UberMoveText, system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
 
 }
@@ -16,7 +15,7 @@ body {
     display: flex;
     align-items: center;
     color: white;
-    /* font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; */
+    
 }
 
 h1 {
